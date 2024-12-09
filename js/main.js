@@ -12,7 +12,7 @@ canvas.height = height;
 
 const backgroundColor = "#262626";
 const imgSize = 100;
-const animationSpeed = 2000;
+const animationSpeed = 20000;
 
 const ctx = canvas.getContext("2d");
 ctx.fillStyle = backgroundColor;
